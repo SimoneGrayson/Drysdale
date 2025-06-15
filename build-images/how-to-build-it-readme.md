@@ -1,0 +1,1 @@
+These images are just here to help guide the process. They’re not a strict step-by-step—more like friendly pointers to give you an idea of how it all comes together. Feel free to do things your own way!
