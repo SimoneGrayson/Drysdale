@@ -17,7 +17,7 @@ The PDF contains all parts laid out with measurements:
 👉 Download Drysdale Plans
 
 🪑 Photo Gallery
-Photos of completed Drysdale chairs in various wood types and finishes will be posted here soon! 
+Photos of completed Drysdale chairs can be found in the build-images folder. They're great for inspiration!
 
 📬 License
 These plans are released for personal and non-commercial use. Feel free to build, modify, and share — just don’t resell them.
